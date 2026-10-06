@@ -22,3 +22,5 @@ Here's a quick look at what i use:
 'git add .'-This command saves all my photo project
 git push
 
+![sheldon](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSDhWwrjp9bRxupWAmuoWACtk7FiO4942o4fKDCOSaBQ&s=10)
+![gucci morty](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrDOlmbxjO_DtG7DmfyDwU4OR9JZ_SzAF7qeHfczBlXA&s=10)
